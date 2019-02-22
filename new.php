@@ -11,7 +11,7 @@ for($i=1;$i<=5;$i++)
 	{
 		echo"\t";
 	}
-	echo"\n";
+	echo"<br>";
 	for($k=1;$k<=count;$k++)
 	{
 		echo"\t";
